@@ -41,6 +41,8 @@ http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#MegaIPTVArge
 http://streaming.enetres.net/B7456E01B090498DAF2F191C36DF29DC024/smil:live.smil/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 group-title="Canales TV Cable",.: Canales TV Cable :.
+#EXTINF:-1 tvg-id="Elim TV" tvg-logo="https://storage.googleapis.com/quickshare/elimtv.png" group-title="El Salvador",Elim TV El Salvador
+http://live-15.viewer.dacast.com/i/dclive_1@397642/master.m3u8
 
 #EXTINF:-1,CNN internacional
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
